@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProbabilityCalc
+comment1.params=p2
+comment1.target=double\ probabilityAND(Probability)
+comment1.text=\r\n\ This\ uses\ the\ current\ Probability\ object\ (this)\ and\ a\ second\ Probability\ object\r\n\ to\ calculate\ P(p1\ AND\ p2)\ \=\ p1\ *\ p2\r\n
+comment2.params=p2\ overlap
+comment2.target=double\ probabilityOR(Probability,\ double)
+comment2.text=\r\n\ This\ uses\ the\ current\ Probability\ object\ (this)\ and\ a\ second\ Probability\ object\r\n\ to\ calculate\ P(p1\ OR\ p2)\ \=\ p1\ +\ p2\ -\ (p1\ AND\ p2)\ \ where\ p1\ AND\ p2\ is\ the\ "overlap"\r\n
+numComments=3
